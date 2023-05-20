@@ -20,3 +20,7 @@ eg: layers = [3, 4, 5, 6]
 5) Applying Gradient Tape to find the gradients and updating the weights.
 6) Updating the weights after each epoch and passing the updated weights from one epoch to the next epoch.
 7) Testing on the test data with the final updated (weights + bias).
+
+## Note
+
+This repository serves as a demonstration of my work for the Neural Network coursework. Kindly refrain from using the exact code provided here in any academic assignments. Its purpose is to provide a reference and facilitate learning for others.
